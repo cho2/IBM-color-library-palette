@@ -1,0 +1,209 @@
+GIMP Palette
+Name: IBM Color Library
+Columns: 0
+#
+225 235 247 Blue 1
+200 218 244 Blue 10
+168 192 243 Blue 20
+121 166 246 Blue 30
+83  146 255 Blue 40
+45  116 218 Blue 50
+31   87 164 Blue 60
+37   70 122 Blue 70
+29   52  88 Blue 80
+25   39  60 Blue 90
+231 233 247 Ultramarine 1
+209 215 244 Ultramarine 10
+176 190 243 Ultramarine 20
+137 162 246 Ultramarine 30
+100 143 255 Ultramarine 40
+60  109 240 Ultramarine 50
+49   81 183 Ultramarine 60
+46   63 143 Ultramarine 70
+37   46 106 Ultramarine 80
+32   33  79 Ultramarine 90
+222 237 247 Cerulean 1
+194 219 244 Cerulean 10
+149 196 243 Cerulean 20
+86  172 242 Cerulean 30
+0   155 239 Cerulean 40
+4   124 192 Cerulean 50
+4   124 192 Cerulean 50
+4   124 192 Cerulean 50
+29   54  77 Cerulean 80
+27   40  52 Cerulean 90
+209 240 247 Aqua 1
+160 227 240 Aqua 10
+113 205 221 Aqua 20
+0   182 203 Aqua 30
+18  163 180 Aqua 40
+24  130 145 Aqua 50
+24  130 145 Aqua 50
+22   77  86 Aqua 70
+19   57  62 Aqua 80
+18   42  46 Aqua 90
+192 245 232 Teal 1
+142 233 212 Teal 10
+64  213 187 Teal 20
+0   186 161 Teal 30
+0   167 143 Teal 40
+0   134 115 Teal 50
+0   100  86 Teal 60
+18   79  68 Teal 70
+19   58  50 Teal 80
+18   43  38 Teal 90
+206 243 209 Green 1
+137 237 160 Green 10
+87  215 133 Green 20
+52  188 110 Green 30
+0   170  94 Green 40
+0   136  75 Green 50
+17  102  57 Green 60
+18   81  46 Green 70
+18   59  34 Green 80
+17   44  27 Green 90
+215 244 189 Lime 1
+180 232 118 Lime 10
+149 209  60 Lime 20
+129 181  50 Lime 30
+115 162  44 Lime 40
+91  129  33 Lime 50
+66   98   0 Lime 60
+55   76  26 Lime 70
+40   57  18 Lime 80
+31   42  16 Lime 90
+251 234 174 Yellow 1
+254 213   0 Yellow 10
+227 188  19 Yellow 20
+198 162  26 Yellow 30
+179 144  31 Yellow 40
+145 114  31 Yellow 50
+112  84  27 Yellow 60
+91   66  26 Yellow 70
+69   47  24 Yellow 80
+55   33  24 Yellow 90
+245 232 219 Gold 1
+255 209 145 Gold 10
+255 176   0 Gold 20
+227 157  20 Gold 30
+196 136  28 Gold 40
+156 109  30 Gold 50
+116  82  27 Gold 60
+91   66  28 Gold 70
+66   48  27 Gold 80
+47   38  28 Gold 90
+245 232 222 Orange 1
+253 207 173 Orange 10
+252 175 109 Orange 20
+254 133   0 Orange 30
+219 124   0 Orange 40
+173 100  24 Orange 50
+129  75  25 Orange 60
+101  61  27 Orange 70
+72   46  26 Orange 80
+51   36  28 Orange 90
+247 231 226 Peach 1
+248 208 195 Peach 10
+250 173 150 Peach 20
+252  13  92 Peach 30
+254  97   0 Peach 40
+196  84  51 Peach 50
+153  58  29 Peach 60
+120  47  28 Peach 70
+86   37  26 Peach 80
+58   32  27 Peach 90
+247 230 230 Red 1
+252 206 199 Red 10
+255 170 157 Red 20
+255 128 108 Red 30
+255  92  73 Red 40
+230  35  37 Red 50
+170  35  31 Red 60
+131  35  30 Red 70
+92   31  27 Red 80
+62   29  27 Red 90
+245 231 235 Magenta 1
+245 206 219 Magenta 10
+247 170 195 Magenta 20
+248 126 172 Magenta 30
+255  80 158 Magenta 40
+255  80 158 Magenta 40
+169  21  96 Magenta 60
+131  27  76 Magenta 70
+93   26  56 Magenta 80
+64   26  41 Magenta 90
+247 228 251 Purple 1
+239 206 243 Purple 10
+228 173 234 Purple 20
+214 138 223 Purple 30
+203 113 215 Purple 40
+194  45 213 Purple 50
+147  32 162 Purple 60
+113  35 124 Purple 70
+80   30  88 Purple 80
+59   26  64 Purple 90
+236 232 245 Violet 1
+226 210 244 Violet 10
+210 181 240 Violet 20
+191 147 235 Violet 30
+176 124 232 Violet 40
+151  83 225 Violet 50
+119  50 187 Violet 60
+96   39 151 Violet 70
+68   33 106 Violet 80
+50   28  76 Violet 90
+233 232 255 Indigo 1
+220 212 247 Indigo 10
+199 182 247 Indigo 20
+174 151 244 Indigo 30
+155 130 243 Indigo 40
+120  94 240 Indigo 50
+90   62 200 Indigo 60
+71   55 147 Indigo 70
+53   41 105 Indigo 80
+39   33  73 Indigo 90
+234 234 234 Gray 1
+216 216 216 Gray 10
+192 191 192 Gray 20
+166 165 166 Gray 30
+148 147 148 Gray 40
+119 118 119 Gray 50
+89   88  89 Gray 60
+70   70  70 Gray 70
+52   51  52 Gray 80
+39   39  39 Gray 90
+227 236 236 Cool Gray 1
+208 218 218 Cool Gray 10
+184 193 193 Cool Gray 20
+159 167 167 Cool Gray 30
+140 150 150 Cool Gray 40
+111 120 120 Cool Gray 50
+83   90  90 Cool Gray 60
+66   71  71 Cool Gray 70
+52   51  52 Cool Gray 80
+39   39  39 Cool Gray 90
+239 233 233 Warm Gray 1
+226 213 213 Warm Gray 10
+204 188 188 Warm Gray 20
+180 161 161 Warm Gray 30
+158 145 145 Warm Gray 40
+125 115 115 Warm Gray 50
+95   87  87 Warm Gray 60
+75   69  69 Warm Gray 70
+55   50  50 Warm Gray 80
+42   38  38 Warm Gray 90
+252 252 252 Neutral White 1
+249 249 249 Neutral White 2
+246 246 246 Neutral White 3
+243 243 243 Neutral White 4
+251 252 252 Cool White 1
+248 250 250 Cool White 2
+244 247 247 Cool White 3
+240 244 244 Cool White 4
+253 252 252 Warm White 1
+251 248 248 Warm White 2
+249 246 246 Warm White 3
+246 243 243 Warm White 4
+0 0 0 Black 100
+255 255 255 White 0
+
